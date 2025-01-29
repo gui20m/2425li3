@@ -8,6 +8,22 @@ Despite being falsely accused of plagiarism, which affected the overall evaluati
 
 Welcome to the **2425li3** project repository! This project was developed as part of the **LI3 (Laboratorios Informatica 3 UMinho)** course for the academic year **2425**. It represents the culmination of our efforts, learnings, and dedication throughout the course.
 
+## Usage
+### Batch
+```console
+./programa-principal <datasets> <inputs_file>
+```
+
+### Test
+```console
+./programa-testes <datasets> <inputs_file> <expected_outputs>
+```
+
+### Interactive
+```console
+./programa-interativo
+```
+
 ## About the Project
 
 This project was designed to meet the requirements and challenges set forth by the LI3 course. It showcases our understanding of key concepts, problem-solving skills, and ability to work collaboratively on complex tasks. Whether it's algorithms, data structures, or software design, this project reflects the knowledge we've gained during the year.
