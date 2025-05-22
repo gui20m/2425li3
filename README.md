@@ -3,7 +3,7 @@
 ---
 ## Final Grade: 18/20 ⭐
 
-Despite being falsely accused of plagiarism, which affected the overall evaluation, the project achieved a grade of **18/20**. This score reflects the quality and effort invested in the development of the project.
+The project achieved a grade of **18/20**. This score reflects the quality and effort invested in the development of the project.
 ---
 
 Welcome to the **2425li3** project repository! This project was developed as part of the **LI3 (Laboratorios Informatica 3 UMinho)** course for the academic year **2425**. It represents the culmination of our efforts, learnings, and dedication throughout the course.
