@@ -1,14 +1,18 @@
-# 2425li3 Project
+# 2425li3
 
----
-## Final Grade: 18/20 ⭐
+## Description
+A data processing and query system developed for LI3 (Laboratórios de Informática III) at Universidade do Minho.
 
-The project achieved a grade of **18/20**. This score reflects the quality and effort invested in the development of the project.
----
-
-Welcome to the **2425li3** project repository! This project was developed as part of the **LI3 (Laboratorios Informatica 3 UMinho)** course for the academic year **2425**. It represents the culmination of our efforts, learnings, and dedication throughout the course.
-
+## Prerequisites
+- GNU Make
+- GCC compiler
+  
 ## Usage
+### Compiling
+```console
+make clean && make
+```
+
 ### Batch
 ```console
 ./programa-principal <datasets> <inputs_file>
